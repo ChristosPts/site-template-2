@@ -607,7 +607,9 @@ thead tr th,tbody th{ background-color: rgb(25, 45, 52, 0.6) !important; }
 
 
 /*--------------About-------------*/
-
+#about-section {
+  overflow-x: hidden ;
+}
 .about-banner{
   background-image: url("/imgs/Simple Shiny.svg");
   background-position: center;
